@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "unordered_map": "cpp",
+        "sstream": "cpp",
+        "string": "cpp"
+    }
+}
