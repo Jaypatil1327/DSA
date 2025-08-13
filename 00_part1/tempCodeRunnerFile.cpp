@@ -1,0 +1,1 @@
+ int ans = pow2(x , n/2) ; ; 

@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std ;
+
+ vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans ; 
+        int n = nums.size() ; 
+        int mx = 1 << n ;
+
+        for(int i = 0 ; i < mx ; i++) {
+            vector<int> temp ; 
+            for(int j = 0 ; j < n ; j++) {
+                if((i >> j) & 1) {
+                    temp.push_back(nums[j]) ; 
+                }
+            } 
+            ans.push_back(temp) ; 
+        }
+        return ans ; 
+    }
+
+int main() {
+
+}
