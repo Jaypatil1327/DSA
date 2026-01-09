@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
 |  |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jaypatil1327/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jaypatil1327/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -46,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jaypatil1327/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
