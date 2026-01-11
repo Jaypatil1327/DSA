@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Jaypatil1327/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Jaypatil1327/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
