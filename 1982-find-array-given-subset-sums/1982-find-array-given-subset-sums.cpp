@@ -1,65 +1,49 @@
 class Solution {
 public:
-    void dfs(vector<int>& sums, vector<int>& result) {
-        // Base case: only one element left
-        if (sums.size() == 1)
-            return;
-
-        // Subset sums of one element -> [0, x]
-        if (sums.size() == 2) {
-            if (sums[0] == 0)
-                result.push_back(sums[1]);
-            else
-                result.push_back(sums[0]);
+    void dfs(vector<int> nums, vector<int>& result) {
+        if (nums.size() == 2) {
+            result.push_back(nums[0] == 0 ? nums[1] : nums[0]);
             return;
         }
 
-        // Smallest difference gives |x|
-        int diff = sums[1] - sums[0];
-
-        unordered_map<int, int> mp;
-        for (int x : sums)
-            mp[x]++;
-
-        vector<int> exc; // without x
-        vector<int> inc; // with x
-
-        // Pairing logic
-        for (int x : sums) {
-            if (mp[x] == 0)
-                continue;
-
-            int y = x + diff;
-            mp[x]--;
-            mp[y]--;
-
-            exc.push_back(x);
-            inc.push_back(y);
+        map<int, int> mp;
+        for (int i = 0; i < nums.size(); i++) {
+            mp[nums[i]]++;
         }
 
-        // Decide sign using position of 0
-        bool zeroInExc = false;
-        for (int x : exc) {
-            if (x == 0) {
-                zeroInExc = true;
-                break;
+        int diff = abs(nums[1] - nums[0]);
+        vector<int> inc;
+        vector<int> exc;
+
+        for (int i = 0; i < nums.size(); i++) {
+            if (mp[nums[i]] > 0) {
+                int x = nums[i] + diff;
+                inc.push_back(x);
+                exc.push_back(nums[i]);
+                mp[nums[i]]--;
+                mp[x]--;
             }
         }
 
-        if (zeroInExc) {
-            // diff is positive
+        bool zero = false;
+        for (auto x : inc) {
+            if (x == 0) {
+                zero = true;
+            }
+        }
+
+        if (zero) {
+            result.push_back(-1 * diff);
+            dfs(inc, result);
+        } else {
             result.push_back(diff);
             dfs(exc, result);
-        } else {
-            // diff is negative
-            result.push_back(-diff);
-            dfs(inc, result);
         }
+        return;
     }
-
     vector<int> recoverArray(int n, vector<int>& sums) {
-        sort(sums.begin(), sums.end());
         vector<int> result;
+        sort(sums.begin(), sums.end());
         dfs(sums, result);
         return result;
     }
