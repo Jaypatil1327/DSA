@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Jaypatil1327/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -74,5 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1982-find-array-given-subset-sums](https://github.com/Jaypatil1327/DSA/tree/master/1982-find-array-given-subset-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
