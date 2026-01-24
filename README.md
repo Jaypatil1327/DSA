@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Jaypatil1327/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
+| [0704-binary-search](https://github.com/Jaypatil1327/DSA/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Jaypatil1327/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -81,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/Jaypatil1327/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
