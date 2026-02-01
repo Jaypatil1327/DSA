@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jaypatil1327/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Jaypatil1327/DSA/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jaypatil1327/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jaypatil1327/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Jaypatil1327/DSA/tree/master/0322-coin-change) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
