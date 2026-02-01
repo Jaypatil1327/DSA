@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1982-find-array-given-subset-sums](https://github.com/Jaypatil1327/DSA/tree/master/1982-find-array-given-subset-sums) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0436-find-right-interval](https://github.com/Jaypatil1327/DSA/tree/master/0436-find-right-interval) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jaypatil1327/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0436-find-right-interval](https://github.com/Jaypatil1327/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Jaypatil1327/DSA/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
