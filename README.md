@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1982-find-array-given-subset-sums](https://github.com/Jaypatil1327/DSA/tree/master/1982-find-array-given-subset-sums) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
