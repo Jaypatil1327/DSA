@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Jaypatil1327/DSA/tree/master/0784-letter-case-permutation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
