@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-letter-case-permutation](https://github.com/Jaypatil1327/DSA/tree/master/0784-letter-case-permutation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
