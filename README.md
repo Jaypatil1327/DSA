@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Jaypatil1327/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1982-find-array-given-subset-sums](https://github.com/Jaypatil1327/DSA/tree/master/1982-find-array-given-subset-sums) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
