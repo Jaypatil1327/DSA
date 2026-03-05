@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Jaypatil1327/DSA/tree/master/0784-letter-case-permutation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jaypatil1327/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jaypatil1327/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
