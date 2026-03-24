@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jaypatil1327/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1982-find-array-given-subset-sums](https://github.com/Jaypatil1327/DSA/tree/master/1982-find-array-given-subset-sums) |
+| [2906-construct-product-matrix](https://github.com/Jaypatil1327/DSA/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jaypatil1327/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Jaypatil1327/DSA/tree/master/3637-trionic-array-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jaypatil1327/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/Jaypatil1327/DSA/tree/master/2906-construct-product-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jaypatil1327/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/Jaypatil1327/DSA/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
