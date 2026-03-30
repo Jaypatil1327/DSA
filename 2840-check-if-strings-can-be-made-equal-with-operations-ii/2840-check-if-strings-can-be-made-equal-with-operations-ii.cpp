@@ -8,21 +8,16 @@ public:
         for (int i = 0; i < n; i++) {
             if (i % 2 == 0) {
                 even[s1[i] - 'a']++;
-            } else {
-                odd[s1[i] - 'a']++;
-            }
-        }
-        for (int i = 0; i < n; i++) {
-            if (i % 2 == 0) {
                 even[s2[i] - 'a']--;
             } else {
+                odd[s1[i] - 'a']++;
                 odd[s2[i] - 'a']--;
             }
         }
-
-        for(int i = 0 ; i < 26 ; i++) {
-            if(odd[i] != 0 or even[i] != 0) return false ;
+        for (int i = 0; i < 26; i++) {
+            if (odd[i] != 0 or even[i] != 0)
+                return false;
         }
-        return true ; 
+        return true;
     }
 };
