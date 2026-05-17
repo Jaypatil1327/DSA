@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Jaypatil1327/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Jaypatil1327/DSA/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaypatil1327/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1390-four-divisors](https://github.com/Jaypatil1327/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0436-find-right-interval](https://github.com/Jaypatil1327/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Jaypatil1327/DSA/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaypatil1327/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Enumeration
 |  |
 | ------- |
