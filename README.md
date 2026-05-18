@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaypatil1327/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0045-jump-game-ii](https://github.com/Jaypatil1327/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jaypatil1327/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Jaypatil1327/DSA/tree/master/0078-subsets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Jaypatil1327/DSA/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Jaypatil1327/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jaypatil1327/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jaypatil1327/DSA/tree/master/0213-house-robber-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Jaypatil1327/DSA/tree/master/0045-jump-game-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jaypatil1327/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1975-maximum-matrix-sum](https://github.com/Jaypatil1327/DSA/tree/master/1975-maximum-matrix-sum) |
