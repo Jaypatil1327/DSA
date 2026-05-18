@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaypatil1327/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/Jaypatil1327/DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jaypatil1327/DSA/tree/master/1345-jump-game-iv) |
 | [1390-four-divisors](https://github.com/Jaypatil1327/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jaypatil1327/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jaypatil1327/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jaypatil1327/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1345-jump-game-iv](https://github.com/Jaypatil1327/DSA/tree/master/1345-jump-game-iv) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jaypatil1327/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jaypatil1327/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Jaypatil1327/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Jaypatil1327/DSA/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jaypatil1327/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1306-jump-game-iii](https://github.com/Jaypatil1327/DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Jaypatil1327/DSA/tree/master/1345-jump-game-iv) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Jaypatil1327/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
 |  |
